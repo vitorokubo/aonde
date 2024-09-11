@@ -1,6 +1,8 @@
 # aonde
+*under construction*
 
 I developed a mobile app with geolocation where users can drop a pin at their current location and leave a message for other users to see. 
+
 I developed this app with the intention of learning Flutter and Firebase, so it is quite rough and simple. Here are some screens produced and their functionalities:
 <div style="display: flex; justify-content: space-around;">
   <img src="./assets/images/screens/initial-screen.jpeg" alt="Initial Screen" width="300"/>
