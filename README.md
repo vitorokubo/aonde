@@ -2,10 +2,12 @@
 
 I developed a mobile app with geolocation where users can drop a pin at their current location and leave a message for other users to see. 
 I developed this app with the intention of learning Flutter and Firebase, so it is quite rough and simple. Here are some screens produced and their functionalities:
-![initial-screen](./assets/images/screens/initial-screen.jpeg)
-![signup-screen](./assets/images/screens/signup-screen.jpeg)
-![profile-screen](./assets/images/screens/profile-screen.jpeg)
-![location-message-screen](./assets/images/screens/location-message-screen.jpeg)
+<div style="display: flex; justify-content: space-around;">
+  <img src="./assets/images/screens/initial-screen.jpeg" alt="Initial Screen" width="300"/>
+  <img src="./assets/images/screens/signup-screen.jpeg" alt="Signup Screen" width="300"/>
+  <img src="./assets/images/screens/profile-screen.jpeg" alt="Profile Screen" width="300"/>
+  <img src="./assets/images/screens/location-message-screen.jpeg" alt="Location Message Screen" width="300"/>
+</div>
 
 ## Getting Started
 
