@@ -1,6 +1,6 @@
-# where_are_my_friends
+# aonde
 
-A new Flutter project.
+"I developed a mobile app with geolocation where users can drop a pin at their current location and leave a message for other users to see."
 
 ## Getting Started
 
