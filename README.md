@@ -1,6 +1,11 @@
 # aonde
 
-"I developed a mobile app with geolocation where users can drop a pin at their current location and leave a message for other users to see."
+I developed a mobile app with geolocation where users can drop a pin at their current location and leave a message for other users to see. 
+I developed this app with the intention of learning Flutter and Firebase, so it is quite rough and simple. Here are some screens produced and their functionalities:
+![initial-screen](./assets/images/screens/initial-screen.jpeg)
+![signup-screen](./assets/images/screens/signup-screen.jpeg)
+![profile-screen](./assets/images/screens/profile-screen.jpeg)
+![location-message-screen](./assets/images/screens/location-message-screen.jpeg)
 
 ## Getting Started
 
